@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+## Strapi is a Headless cms
